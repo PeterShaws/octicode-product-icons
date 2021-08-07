@@ -91,9 +91,10 @@
     "menu-submenu": {
       "fontCharacter": "\\f119"
     },
-    "drop-down-button": {
-      "fontCharacter": "\\f117"
-    },
+    // FIXME drop-down-button is misaligned
+    // "drop-down-button": {
+    //   "fontCharacter": "\\f117"
+    // },
     "toolbar-more": {
       "fontCharacter": "\\f15d"
     },
