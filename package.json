@@ -3,7 +3,8 @@
   "displayName": "Octicons Product Icons",
   "version": "0.0.1",
   "description": "Octicons product icons for Visual Studio Code",
-  "icon": "./assets/octicons.png",
+  "icon": "icon.png",
+  "publisher": "PeterShaws",
   "author": {
     "name": "Pedro A. C. Jr."
   },
