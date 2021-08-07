@@ -49,9 +49,10 @@
     "bell": {
       "fontCharacter": "\\f10c"
     },
-    "sync": {
-      "fontCharacter": "\\f1a1"
-    },
+    // FIXME sync is misaligned
+    // "sync": {
+    //   "fontCharacter": "\\f1a1"
+    // },
     "light-bulb": {
       "fontCharacter": "\\f162"
     },
