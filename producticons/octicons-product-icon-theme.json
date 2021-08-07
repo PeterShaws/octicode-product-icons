@@ -61,12 +61,16 @@
     "add": {
       "fontCharacter": "\\f180"
     },
-    "symbol-function": {
-      "fontCharacter": "\\f179"
-    },
-    "symbol-key": {
-      "fontCharacter": "\\f15f"
-    },
+    // FIXME symbols are misaligned
+    // "symbol-function": {
+    //   "fontCharacter": "\\f179"
+    // },
+    // "symbol-key": {
+    //   "fontCharacter": "\\f15f"
+    // },
+    // "symbol-event": {
+    //   "fontCharacter": "\\f1b7"
+    // },
     "folder": {
       "fontCharacter": "\\f139"
     },
@@ -701,9 +705,6 @@
     },
     "star-full": {
       "fontCharacter": "\\f19f"
-    },
-    "symbol-event": {
-      "fontCharacter": "\\f1b7"
     },
     "tag": {
       "fontCharacter": "\\f1a2"
